@@ -1,4 +1,0 @@
-/hardware
-/firmware
-/documentacao
-/figuras

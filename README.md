@@ -1,8 +1,11 @@
 # Estacionamento Inteligente
 
 Sistema de Estacionamento Inteligente – PI-3B  
+
 Curso de Engenharia Elétrica – Universidade Estadual de Londrina (UEL)
+
 Discentes: Iago Sofiate, Jayr Ghusttavo Ramos Pereira, João Augusto Campos de Lima
+
 Doscente: Daniel Strufaldi Batista
 
 ---
